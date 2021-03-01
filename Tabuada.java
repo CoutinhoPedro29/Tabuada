@@ -1,4 +1,6 @@
-public class Tabuada {
+/* Nome: Pedro C. Matrícula:0050016979 */
+
+public class Main {
   public static void main(String[] args) {
    
    int a;
