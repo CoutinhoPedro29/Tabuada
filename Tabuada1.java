@@ -7,7 +7,7 @@ class Tabuada1 {
     int resposta=input.nextInt( );
     for(int i=0;i<11;i++)
     {
-      int res=resposta+i;
+      int res=resposta*i;
       System.out.println(res);
 
     }
